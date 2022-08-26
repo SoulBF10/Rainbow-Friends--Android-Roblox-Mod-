@@ -1,0 +1,32 @@
+{
+	"storyName": "vs racist friends",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "extrasad",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Friends To Your End",
+			"blue",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "RainbowFriend"
+}
