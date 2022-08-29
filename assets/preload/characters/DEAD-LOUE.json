@@ -7,7 +7,7 @@
 				-110
 			],
 			"anim": "firstDeath",
-			"fps": 24,
+			"fps": 12,
 			"name": "charliedie oof",
 			"indices": []
 		},
@@ -28,7 +28,7 @@
 				170
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 12,
 			"anim": "deathLoop",
 			"loop": true,
 			"name": "charliedie dance"

@@ -7,7 +7,7 @@
 				0
 			],
 			"anim": "idle",
-			"fps": 60,
+			"fps": 16,
 			"name": " idle",
 			"indices": []
 		},
@@ -18,7 +18,7 @@
 				0
 			],
 			"anim": "singLEFT",
-			"fps": 60,
+			"fps": 24,
 			"name": " left",
 			"indices": []
 		},
@@ -29,7 +29,7 @@
 				0
 			],
 			"anim": "singDOWN",
-			"fps": 60,
+			"fps": 24,
 			"name": " down",
 			"indices": []
 		},
@@ -40,7 +40,7 @@
 				0
 			],
 			"anim": "singUP",
-			"fps": 60,
+			"fps": 24,
 			"name": " up",
 			"indices": []
 		},
@@ -51,7 +51,7 @@
 				0
 			],
 			"anim": "singRIGHT",
-			"fps": 60,
+			"fps": 24,
 			"name": " right",
 			"indices": []
 		},
@@ -62,7 +62,7 @@
 				0
 			],
 			"anim": "singLEFTmiss",
-			"fps": 60,
+			"fps": 12,
 			"name": " xleft",
 			"indices": []
 		},
@@ -73,7 +73,7 @@
 				0
 			],
 			"anim": "singDOWNmiss",
-			"fps": 60,
+			"fps": 12,
 			"name": " xdown",
 			"indices": []
 		},
@@ -84,7 +84,7 @@
 				0
 			],
 			"anim": "singUPmiss",
-			"fps": 60,
+			"fps": 12,
 			"name": " xup",
 			"indices": []
 		},
@@ -95,7 +95,7 @@
 				0
 			],
 			"anim": "singRIGHTmiss",
-			"fps": 60,
+			"fps": 12,
 			"name": " xright",
 			"indices": []
 		}
